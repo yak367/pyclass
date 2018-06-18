@@ -1,0 +1,6 @@
+- !!python/unicode 'product': !!python/unicode 'ASA'
+  !!python/unicode 'state': !!python/unicode 'MA'
+  !!python/unicode 'vendor': !!python/unicode 'cisco'
+- 1970
+- 22
+- !!python/unicode 'hello'
